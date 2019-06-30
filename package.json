@@ -1,0 +1,26 @@
+{
+  "name": "messenger_desktop",
+  "author": "tigercosmos",
+  "version": "1.0.0",
+  "description": "Unofficial Messenger Mac Desktop App",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "build": "electron-builder"
+  },
+  "repository": "https://github.com/tigercosmos/messenger_desktop.git",
+  "keywords": [
+    "Electron",
+    "messenger"
+  ],
+  "devDependencies": {
+    "electron": "^3.0.7",
+    "electron-builder": "^20.38.4"
+  },
+  "build": {
+    "appId": "xyz.tigercosmos",
+    "productName": "Messenger"
+  }
+}
