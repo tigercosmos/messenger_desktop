@@ -17,7 +17,7 @@ Although you can open Messenger on the browser. It is more convenient that it is
 ```sh
 git clone https://github.com/tigercosmos/messenger_desktop.git
 cd messenger_desktop
-npm install & npm run
+npm install && npm run
 ```
 
 ## Build
