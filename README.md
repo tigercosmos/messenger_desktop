@@ -6,7 +6,7 @@ Unofficial Messenger Mac Desktop App
 
 ## Download the app
 
-Link: [Messenger.dmg](https://github.com/tigercosmos/messenger_desktop/releases/download/1.0.0/Messenger-1.0.0.dmg)
+Link: [Messenger.dmg](https://github.com/tigercosmos/messenger_desktop/releases/download/1.0.1/Messenger-1.0.1.dmg)
 
 ## Why this repo
 

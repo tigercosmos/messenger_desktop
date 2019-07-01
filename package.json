@@ -1,7 +1,7 @@
 {
   "name": "messenger_desktop",
   "author": "tigercosmos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial Messenger Mac Desktop App",
   "main": "main.js",
   "license": "MIT",
